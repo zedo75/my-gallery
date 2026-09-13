@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16 22:19:17",
-  "count": 185,
+  "last_updated": "2026-09-13 10:04:06",
+  "count": 191,
   "base_url": "zedo-img.netlify.app",
   "images": {
     ".": [
@@ -178,7 +178,13 @@
       { "name": "20260117214645.png", "width": 1282, "height": 867, "size": 480460 },
       { "name": "20260117214754.png", "width": 733, "height": 384, "size": 66262 },
       { "name": "20260117215001.png", "width": 1016, "height": 677, "size": 390630 },
-      { "name": "20260117224402.png", "width": 747, "height": 545, "size": 85552 }
+      { "name": "20260117224402.png", "width": 747, "height": 545, "size": 85552 },
+      { "name": "fc-list-grep-FZXBS.png", "width": 741, "height": 65, "size": 21487 },
+      { "name": "fc-list-grep-XBS.png", "width": 1051, "height": 186, "size": 80415 },
+      { "name": "font-manager-FZ.png", "width": 1100, "height": 712, "size": 70609 },
+      { "name": "font-manager-FZXBSJW.png", "width": 512, "height": 587, "size": 43882 },
+      { "name": "font-manager-FZXBSK.png", "width": 512, "height": 587, "size": 43222 },
+      { "name": "WPS-FZXBS-screenshot.png", "width": 1063, "height": 206, "size": 13495 }
     ],
     "lang": [
       { "name": "go-20230113193448.png", "width": 755, "height": 247, "size": 27272 },
@@ -377,6 +383,12 @@
     "/img/kylin/20260117214754.png",
     "/img/kylin/20260117215001.png",
     "/img/kylin/20260117224402.png",
+    "/img/kylin/fc-list-grep-FZXBS.png",
+    "/img/kylin/fc-list-grep-XBS.png",
+    "/img/kylin/font-manager-FZ.png",
+    "/img/kylin/font-manager-FZXBSJW.png",
+    "/img/kylin/font-manager-FZXBSK.png",
+    "/img/kylin/WPS-FZXBS-screenshot.png",
     "/img/lang/go-20230113193448.png",
     "/img/lang/go-20230113193744.png",
     "/img/lang/go-20230113194832.png",
